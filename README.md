@@ -7,8 +7,8 @@ Modifications for the Captain Slug Talon Claw T4
  https://www.buymeacoffee.com/silvalisdesigns
  ---------------
   ![image](/images/tct4-tap.png)
-  ![image](/images/bparelease2.png)
- +2mm BPA release for forward facing angled talon mags.
+  ![image](/images/bparelease15.png)
+ +1.5mm BPA release for forward facing angled talon mags.
  This replacement release will allow usage of nightingale mini-talon mags.
 
 ---------------
