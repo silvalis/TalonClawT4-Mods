@@ -13,6 +13,14 @@ Modifications for the Captain Slug Talon Claw T4
  +1.5mm BPA release for forward facing angled talon mags.
  
  This replacement release will allow usage of nightingale mini-talon mags.
+ 
+---------------
+ 
+   ![image](/images/tct4-buff.png)
+   
+   
+   Buffer tube for TC T4.
+   Print it endcap down. Use supports.
 
 ---------------
 
